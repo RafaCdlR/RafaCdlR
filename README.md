@@ -1,16 +1,16 @@
-**Hello everyone** 👋
-
-I'm Rafael Caro, and I'm a Computer Science student from Spain.
-
-🖥 __Technologies__:
-→ C/C++
-→ Python
-→ Linux
-
-🎓 __Learning__:
-▸ Rust
-▸ HTML
-▸ CSS
-▸ JS
+**Hello everyone** 👋 <br>
+<br>
+I'm Rafael Caro, and I'm a Computer Science student from Spain. <br>
+<br>
+🖥 __Technologies__: <br>
+→ C/C++ <br>
+→ Python <br>
+→ Linux <br>
+<br>
+🎓 __Learning__: <br>
+▸ Rust <br>
+▸ HTML <br>
+▸ CSS <br>
+▸ JS <br>
 
 
