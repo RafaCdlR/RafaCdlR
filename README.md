@@ -9,8 +9,5 @@ I'm Rafael Caro, and I'm a Computer Science student from Spain. <br>
 <br>
 🎓 __Learning__: <br>
 ▸ Rust <br>
-▸ HTML <br>
-▸ CSS <br>
-▸ JS <br>
-
+▸ Machine Learning <br>
 
