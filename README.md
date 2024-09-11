@@ -1,10 +1,7 @@
-**Hello everyone** 👋 <br>
-<br>
-I'm Rafael Caro, and I'm a Computer Science student from Spain. <br>
-<br>
-🖥 __Technologies__: <br>
-→ C/C++ <br>
-→ Python <br>
-→ Linux <br>
-→ Rust
+<h2>
+	Hello there! I'm Rafael Caro.
+</h2>
 
+---
+
+I'm studying a Computer Science degree in <a href="https://www.uca.es">Universidad de Cádiz</a>.
